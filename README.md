@@ -1,6 +1,6 @@
 This E-Commerce webstore/website has been created as a part of my internship at Amla Commerce organization.
 
-The whole idea behind the creation of this webstore theme is to help to increase sales of Znode platform.
+The whole idea behind the creation of this webstore theme is to help to increase sales of Znode ecommerce platform.
 
 It is a B2B website which sells electronic gadgets such as Laptops, Smartphones, Headphones and other product to the consumers.
 
